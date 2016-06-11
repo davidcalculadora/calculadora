@@ -1,0 +1,4 @@
+Telefono,Codigo,Nombre
+555001,cod001,nom001
+555002,cod002,nom002
+555003,cod003,nom003

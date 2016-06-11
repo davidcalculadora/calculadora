@@ -1,0 +1,3 @@
+Telefono,Codigo,Nombre,Dato1,Dato2
+555001,cod001,nom001,dato1_1,dato1_2
+555002,cod002,nom002,dato2_1,dato2_2

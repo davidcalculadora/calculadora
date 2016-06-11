@@ -1,0 +1,2 @@
+Telefono,Codigo,Nombre
+675570333,CliRafa,Rafael Sanchis

@@ -1,0 +1,4 @@
+Telefono,Codigo,Nombre
+669145176,CodigoJuanjo,Juanjo
+960454018,CodigoHermes,Hermes
+675570333,CodigoRafa,Rafael Sanchis
